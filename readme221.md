@@ -69,11 +69,17 @@ Las pruebas son que se enviara desde un cliente y el resto recibiran la respuest
 
 ----
 # Referencias
-[socket.io] | [socket.io-client]  | [Readme Socket.io] | [Documentacion Socket.io]  | [Dashboard Railway] | [github/zamudpoe/mywebsocketapp-ferherr] 
+NPM socket.io : [npm socket.io] 
+NPM socket.io-client : [socket.io-client]  
+Readme Socket.io : [Readme Socket.io] 
+Documentacion Socket.io : [Documentacion Socket.io] 
+Dashboard Railway : [Dashboard Railway] 
+github/zamudpoe/mywebsocketapp-ferherr : [github/zamudpoe/mywebsocketapp-ferherr] 
+
 
 
 ---
-[socket.io]:(https://www.npmjs.com/package/socket.io)
+[npm socket.io]:(https://www.npmjs.com/package/socket.io)
 [socket.io-client]:(https://www.npmjs.com/package/socket.io-client)
 [Readme Socket.io]:(github.com/socketio/socket.io#readme)
 [Documentacion Socket.io]:(https://socket.io/docs/)
