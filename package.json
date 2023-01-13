@@ -1,10 +1,11 @@
 {
-  "name": "213_inicioproyecto-fundamentossobrewebsockets",
+  "name": "08_websocket-server",
   "version": "1.0.0",
   "description": "Es momento de comenzar una nueva aplicacion en el cual vamos a aprender a integrar **``socket.io``** un manejador de web sockets en nuestras aplicaciones de **``Node.js``**.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
