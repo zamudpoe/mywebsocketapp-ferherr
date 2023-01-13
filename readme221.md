@@ -69,12 +69,7 @@ Las pruebas son que se enviara desde un cliente y el resto recibiran la respuest
 
 ----
 # Referencias
-[socket.io] | 
-[socket.io-client]  | 
-[Readme Socket.io]  | 
-[Documentacion Socket.io]  | 
-[Dashboard Railway]  | 
-[github/zamudpoe/mywebsocketapp-ferherr] 
+[socket.io] | [socket.io-client]  | [Readme Socket.io] | [Documentacion Socket.io]  | [Dashboard Railway] | [github/zamudpoe/mywebsocketapp-ferherr] 
 
 
 ---
