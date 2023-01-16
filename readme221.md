@@ -70,10 +70,15 @@ Las pruebas son que se enviara desde un cliente y el resto recibiran la respuest
 ----
 # Referencias
 NPM socket.io : [npm socket.io] 
+
 NPM socket.io-client : [socket.io-client]  
+
 Readme Socket.io : [Readme Socket.io] 
+
 Documentacion Socket.io : [Documentacion Socket.io] 
+
 Dashboard Railway : [Dashboard Railway] 
+
 github/zamudpoe/mywebsocketapp-ferherr : [github/zamudpoe/mywebsocketapp-ferherr] 
 
 
